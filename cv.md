@@ -20,3 +20,5 @@
 1. Fashion store (https://olena-olkhovyk.github.io/Fashion-store/)
 1. Weather app (https://olena-olkhovyk.github.io/Weather-project/)
 1. Olena’s resume (https://olena-olkhovyk.github.io/Olenas-resume/)
+
+### I have learnt English at school, additionally i visited courses from Karazin University plus regurarly talking to a native speaker.
